@@ -1,11 +1,11 @@
 {
-  "name": "Your Name",
-  "handle": "yourhandle",
+  "name": "Justas",
+  "handle": "justas",
   "role": "Cybersecurity Graduate",
-  "location": "City, Country",
+  "location": "High Wycombe, UK",
   "status": "Actively seeking roles",
   "focus": "Offensive Security / Blue Team",
-  "email": "you@example.com",
+  "email": "justasklibavicius123@gmail.com",
   "resumeUrl": "#",
 
   "heroTagline": "Cybersecurity graduate focused on offensive security and threat analysis — turning coursework, CTFs and labs into real, demonstrable skill.",
@@ -16,7 +16,7 @@
     "I'm currently looking for a junior role in security analysis, penetration testing, or SOC operations where I can keep learning fast."
   ],
 
-  "pullQuote": "Every project below is real — the code, the write-up and the lessons learned are mine.",
+  "pullQuote": "The projects below showcase labs and exercises I've worked through, with my own documentation and reflections.",
 
   "about": [
     { "label": "Location", "value": "City, Country" },
@@ -26,36 +26,36 @@
   ],
 
   "socials": [
-    { "label": "GitHub", "url": "https://github.com/yourhandle", "icon": "github" },
-    { "label": "LinkedIn", "url": "https://linkedin.com/in/yourhandle", "icon": "linkedin" },
-    { "label": "TryHackMe", "url": "https://tryhackme.com/p/yourhandle", "icon": "flag" },
-    { "label": "Email", "url": "mailto:you@example.com", "icon": "mail" }
+    { "label": "GitHub", "url": "https://github.com/Justin-LT", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/justas-lt", "icon": "linkedin" },
+    { "label": "TryHackMe", "url": "https://tryhackme.com", "icon": "flag" },
+    { "label": "Email", "url": "mailto:justasklibavicius123@gmail.com", "icon": "mail" }
   ],
 
   "skills": {
     "Offensive Security": [
-      { "name": "Penetration Testing", "level": 4 },
+      { "name": "Penetration Testing", "level": 3 },
       { "name": "Web App Security (OWASP)", "level": 4 },
       { "name": "Network Exploitation", "level": 3 },
-      { "name": "Social Engineering Awareness", "level": 3 }
+      { "name": "Social Engineering Awareness", "level": 5 }
     ],
     "Defensive / Blue Team": [
       { "name": "SIEM & Log Analysis", "level": 3 },
       { "name": "Incident Response", "level": 3 },
       { "name": "Threat Intelligence", "level": 2 },
-      { "name": "Malware Analysis", "level": 2 }
+      { "name": "Malware Analysis", "level": 3 }
     ],
     "Tools & Platforms": [
-      { "name": "Burp Suite / Nmap / Metasploit", "level": 4 },
-      { "name": "Wireshark", "level": 4 },
-      { "name": "Linux Administration", "level": 4 },
-      { "name": "Cloud (AWS/Azure) Security", "level": 2 }
+      { "name": "Burp Suite / Nmap / Metasploit", "level": 2 },
+      { "name": "Wireshark", "level": 3 },
+      { "name": "Linux Administration", "level": 2 },
+      { "name": "Cloud (AWS/Azure) Security", "level": 1 }
     ],
     "Programming": [
-      { "name": "Python", "level": 4 },
-      { "name": "Bash / Shell Scripting", "level": 4 },
+      { "name": "Python", "level": 3 },
+      { "name": "Bash / Shell Scripting", "level": 2 },
       { "name": "SQL", "level": 3 },
-      { "name": "C / Assembly Basics", "level": 2 }
+      { "name": "C / Assembly Basics", "level": 1 }
     ]
   },
 
@@ -105,16 +105,12 @@
   ],
 
   "certifications": [
-    { "name": "CompTIA Security+", "issuer": "CompTIA", "date": "2025" },
-    { "name": "Certified Ethical Hacker", "issuer": "EC-Council", "date": "2025" },
-    { "name": "Google Cybersecurity Certificate", "issuer": "Google", "date": "2024" },
-    { "name": "TryHackMe — Top 5%", "issuer": "TryHackMe", "date": "2026" }
+    { "name": "CompTIA Security+", "issuer": "CompTIA", "date": "2026" },
+    { "name": "Certified Ethical Hacker", "issuer": "EC-Council", "date": "2026" },
   ],
 
   "timeline": [
-    { "date": "2026", "title": "B.Sc. Cybersecurity", "org": "Your University", "desc": "Graduated with a focus on network security, penetration testing and digital forensics." },
-    { "date": "2025", "title": "Security Intern", "org": "Company Name", "desc": "Assisted the SOC team with log triage, vulnerability scanning and report writing." },
-    { "date": "2024", "title": "CTF Team Captain", "org": "University Cyber Club", "desc": "Led a five-person team through regional and national capture-the-flag competitions." },
-    { "date": "2023", "title": "Started the cybersecurity degree", "org": "Your University", "desc": "Began coursework in systems, networking and applied security." }
+    { "date": "2025", "title": "B.Sc. Cybersecurity and Digital Forensics", "org": "University of West of England", "desc": "Graduated with a focus on network security, penetration testing and digital forensics." },
+    { "date": "2021", "title": "Started the cybersecurity degree", "org": "University of West of England", "desc": "Began coursework in systems, networking and applied security." }
   ]
 }
