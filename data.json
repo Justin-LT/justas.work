@@ -1,0 +1,120 @@
+{
+  "name": "Your Name",
+  "handle": "yourhandle",
+  "role": "Cybersecurity Graduate",
+  "location": "City, Country",
+  "status": "Actively seeking roles",
+  "focus": "Offensive Security / Blue Team",
+  "email": "you@example.com",
+  "resumeUrl": "#",
+
+  "heroTagline": "Cybersecurity graduate focused on offensive security and threat analysis — turning coursework, CTFs and labs into real, demonstrable skill.",
+
+  "bio": [
+    "I'm a recent cybersecurity graduate who likes taking systems apart to understand exactly how they fail — then writing up what I find so someone else doesn't have to learn it the hard way.",
+    "My coursework and personal labs span network security, penetration testing, and digital forensics, and I round it out with CTFs and home-lab projects most weekends.",
+    "I'm currently looking for a junior role in security analysis, penetration testing, or SOC operations where I can keep learning fast."
+  ],
+
+  "pullQuote": "Every project below is real — the code, the write-up and the lessons learned are mine.",
+
+  "about": [
+    { "label": "Location", "value": "City, Country" },
+    { "label": "Focus", "value": "Offensive Security" },
+    { "label": "Education", "value": "B.Sc. Cybersecurity, 2026" },
+    { "label": "Status", "value": "Open to work" }
+  ],
+
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com/yourhandle", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/yourhandle", "icon": "linkedin" },
+    { "label": "TryHackMe", "url": "https://tryhackme.com/p/yourhandle", "icon": "flag" },
+    { "label": "Email", "url": "mailto:you@example.com", "icon": "mail" }
+  ],
+
+  "skills": {
+    "Offensive Security": [
+      { "name": "Penetration Testing", "level": 4 },
+      { "name": "Web App Security (OWASP)", "level": 4 },
+      { "name": "Network Exploitation", "level": 3 },
+      { "name": "Social Engineering Awareness", "level": 3 }
+    ],
+    "Defensive / Blue Team": [
+      { "name": "SIEM & Log Analysis", "level": 3 },
+      { "name": "Incident Response", "level": 3 },
+      { "name": "Threat Intelligence", "level": 2 },
+      { "name": "Malware Analysis", "level": 2 }
+    ],
+    "Tools & Platforms": [
+      { "name": "Burp Suite / Nmap / Metasploit", "level": 4 },
+      { "name": "Wireshark", "level": 4 },
+      { "name": "Linux Administration", "level": 4 },
+      { "name": "Cloud (AWS/Azure) Security", "level": 2 }
+    ],
+    "Programming": [
+      { "name": "Python", "level": 4 },
+      { "name": "Bash / Shell Scripting", "level": 4 },
+      { "name": "SQL", "level": 3 },
+      { "name": "C / Assembly Basics", "level": 2 }
+    ]
+  },
+
+  "projects": [
+    {
+      "title": "Internal Network Pentest Lab",
+      "status": "complete",
+      "tags": ["Pentest", "Active Directory"],
+      "summary": "Built a vulnerable Active Directory lab and ran a full internal penetration test — recon, privilege escalation and lateral movement — with a formal findings report.",
+      "links": { "github": "#", "writeup": "#" }
+    },
+    {
+      "title": "Phishing Detection Classifier",
+      "status": "complete",
+      "tags": ["Python", "Machine Learning"],
+      "summary": "Trained a lightweight ML model to flag phishing emails from header and content features, reaching 94% accuracy on a held-out test set.",
+      "links": { "github": "#", "demo": "#" }
+    },
+    {
+      "title": "CTF Write-ups",
+      "status": "progress",
+      "tags": ["CTF", "Web", "Crypto"],
+      "summary": "Ongoing collection of write-ups from HackTheBox, TryHackMe and campus CTFs — covering web exploitation, cryptography and reverse engineering challenges.",
+      "links": { "github": "#" }
+    },
+    {
+      "title": "Home SOC in a Box",
+      "status": "progress",
+      "tags": ["Blue Team", "SIEM"],
+      "summary": "A self-hosted mini security operations centre using Wazuh and Suricata, ingesting logs from a small virtual network to practise detection engineering.",
+      "links": { "github": "#", "writeup": "#" }
+    },
+    {
+      "title": "Malware Sandbox Analysis",
+      "status": "research",
+      "tags": ["Malware", "Reverse Engineering"],
+      "summary": "Static and dynamic analysis of sample malware binaries in an isolated environment, documenting indicators of compromise and behaviour.",
+      "links": { "writeup": "#" }
+    },
+    {
+      "title": "Secure File-Sharing Tool",
+      "status": "complete",
+      "tags": ["Python", "Cryptography"],
+      "summary": "A command-line tool for end-to-end encrypted file transfer using AES-256 and RSA key exchange, built as a final-year capstone project.",
+      "links": { "github": "#", "demo": "#" }
+    }
+  ],
+
+  "certifications": [
+    { "name": "CompTIA Security+", "issuer": "CompTIA", "date": "2025" },
+    { "name": "Certified Ethical Hacker", "issuer": "EC-Council", "date": "2025" },
+    { "name": "Google Cybersecurity Certificate", "issuer": "Google", "date": "2024" },
+    { "name": "TryHackMe — Top 5%", "issuer": "TryHackMe", "date": "2026" }
+  ],
+
+  "timeline": [
+    { "date": "2026", "title": "B.Sc. Cybersecurity", "org": "Your University", "desc": "Graduated with a focus on network security, penetration testing and digital forensics." },
+    { "date": "2025", "title": "Security Intern", "org": "Company Name", "desc": "Assisted the SOC team with log triage, vulnerability scanning and report writing." },
+    { "date": "2024", "title": "CTF Team Captain", "org": "University Cyber Club", "desc": "Led a five-person team through regional and national capture-the-flag competitions." },
+    { "date": "2023", "title": "Started the cybersecurity degree", "org": "Your University", "desc": "Began coursework in systems, networking and applied security." }
+  ]
+}
