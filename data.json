@@ -19,7 +19,7 @@
   "pullQuote": "The projects below showcase labs and exercises I've worked through, with my own documentation and reflections.",
 
   "about": [
-    { "label": "Location", "value": "City, Country" },
+    { "label": "Location", "value": "High Wycombe, UK" },
     { "label": "Focus", "value": "Offensive Security" },
     { "label": "Education", "value": "B.Sc. Cybersecurity, 2026" },
     { "label": "Status", "value": "Open to work" }
@@ -106,7 +106,7 @@
 
   "certifications": [
     { "name": "CompTIA Security+", "issuer": "CompTIA", "date": "2026" },
-    { "name": "Certified Ethical Hacker", "issuer": "EC-Council", "date": "2026" },
+    { "name": "Certified Ethical Hacker", "issuer": "EC-Council", "date": "2026" }
   ],
 
   "timeline": [
